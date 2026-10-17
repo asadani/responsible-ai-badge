@@ -7,8 +7,8 @@ This repository hosts the Responsible AI Adopter Badge, a freely available, open
 The final transparent badge image is saved in the `assets/` directory of this repository.
 
 ### Image Preview
-
 <img src="assets/responsible-ai-adopter️-badge.png" alt="Responsible AI Adopter Badge" width="400" height="400" />
+
 
 ## ⚠️ MANDATORY DISCLAIMER
 
@@ -22,7 +22,7 @@ By using this badge, you acknowledge and agree to the following terms:
 - **Use at Your Own Risk:** Anyone relying on the presence of this badge must understand that it represents only a self-declared statement of intent and should not be used as a substitute for independent diligence or verification.
 - **NO PAYMENT REQUIRED:** The badge is strictly free. **No one is authorized to charge money for access, use, or display of this badge or any of its assets.** Any such request or demand for payment should be reported and ignored immediately.
 
----
+***
 
 ## Usage Instructions
 
@@ -52,19 +52,19 @@ To display the badge on your website, GitHub repository, documentation, or profi
 </a>
 ```
 
----
+***
 
 ## License
 
 The Responsible AI Adopter Badge image and all accompanying documentation (including this README) are licensed under the [Creative Commons Attribution 4.0 International Public License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 **You are free to:**
-
 - **Share** — copy and redistribute the material in any medium or format.
 - **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
 
 **Under the following condition:**
-
 - **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
 For the full license text, please see the included `LICENSE.md` file in this repository.
+
+***
